@@ -1,4 +1,8 @@
 /*Estilos da pagina index.html*/
+body{
+    background-color: rgba(189, 216, 221, 0.829);
+}
+
 .center{
     text-align: center;
     color: rgb(80, 6, 76);
@@ -49,11 +53,6 @@
 .mb-50{
     margin-bottom: 50px;
 }
-
-.body{
-    background-color: grey;
-}
-
 
 
 /*Estilos da pagina contato.html*/

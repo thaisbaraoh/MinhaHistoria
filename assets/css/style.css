@@ -1,11 +1,11 @@
 /*Estilos da pagina index.html*/
 body{
-    background-color: rgba(189, 216, 221, 0.829);
+    background-color: rgba(169, 248, 235, 0.829);
 }
 
 .center{
     text-align: center;
-    color: rgb(80, 6, 76);
+    color: rgb(221, 9, 126);
 }
 
 .justify{
@@ -17,7 +17,7 @@ body{
     flex-flow: row ;
     justify-content: center;
     align-items: center;
-    color: rgb(37, 36, 37);
+    color: rgb(104, 6, 60);
 }
 
 #menu li{
@@ -28,8 +28,9 @@ body{
 
 #menu li a {
     text-decoration: none;
-    color: rgb(207, 96, 202);
+    color: rgb(245, 11, 128);
     font-size: 20px;
+    
 }
 
 #menu li a:hover {
